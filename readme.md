@@ -5,4 +5,4 @@ new thing
 2
 3
 new feature
-new in dev
+new in main
